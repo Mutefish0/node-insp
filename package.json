@@ -1,0 +1,29 @@
+{
+  "name": "node-insp",
+  "version": "1.0.0",
+  "description": "A tool for debugging node cli applications",
+  "main": "index.js",
+  "bin": {
+    "insp": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutefish0/node-insp.git"
+  },
+  "keywords": [
+    "debug",
+    "node",
+    "inspect",
+    "inspect-brk",
+    "cli"
+  ],
+  "author": "Ivancing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mutefish0/node-insp/issues"
+  },
+  "homepage": "https://github.com/Mutefish0/node-insp#readme"
+}
