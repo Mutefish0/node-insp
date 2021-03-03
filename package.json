@@ -1,10 +1,10 @@
 {
   "name": "node-insp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for debugging node cli applications",
   "main": "index.js",
   "bin": {
-    "insp": "./index.js"
+    "insp": "./bin.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
